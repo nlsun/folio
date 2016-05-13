@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About
+title: 
 ---
 
-Nicholas Sun does software.
+**Hi! I'm Nicholas Sun and I do software.** In particular, I like *systems*
+and the *networks* that connect them.
+
+[resume](http://files.nlsun.com/Resume.pdf)
