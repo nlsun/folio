@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: About
 ---
 
 **Hi! I'm Nicholas Sun and I do software.** In particular, I like *systems*
